@@ -4,6 +4,3 @@
 [submodule "src/moveit_tutorials"]
 	path = src/moveit_tutorials
 	url = git@github.com:cohen39/moveit_tutorials.git
-[submodule "src/gazebo_tutorials"]
-	path = src/gazebo_tutorials
-	url = git@github.com:cohen39/gazebo_tutorials.git
