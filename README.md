@@ -16,5 +16,6 @@ First, install ros dependencies & clone this repo:
     rosdep install --from-paths src --ignore-src -y
 
 Then, build:
+
     catkin_make
     source devel/setup.bash
